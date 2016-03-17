@@ -1,11 +1,11 @@
 {
   "name": "closedown",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Closedown API SDK for node. see linkhub.co.kr",
   "main": "index.js",
   "author": {
     "name": "Jeong Yohan",
-    "email": "yhjeong@linkhub.co.kr"
+    "email": "code@linkhub.co.kr"
   },
   "engines": {
     "node": ">= 0.10.0"
