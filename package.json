@@ -1,6 +1,6 @@
 {
   "name": "closedown",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Closedown API SDK for node. see linkhub.co.kr",
   "main": "index.js",
   "author": {
